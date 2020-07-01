@@ -1,0 +1,28 @@
+h1{
+    margin-top: 1.5em;
+    color:black;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-justify: auto;
+    font-size: 3em;
+    font-weight: bold;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-image: url(img/fondo.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 2rem;
+}
