@@ -13,13 +13,14 @@
     <head>
         <h1>Problemas Matematicos</h1>
     </head>
+    <hr>
     <div class="flex-container">
         <form action="multiplicacion.php" method="post">
             <div>
                 <h2>Multiplicación</h2>
                 <img src="img/multiplicaciones.jpg" alt="">
                 <br>
-                <input type="submit" value="INGRESAR">
+                <input class="button button1" type="submit" value="INGRESAR">
             </div>
         </form>
         <!-- ======================================================================== -->
@@ -28,7 +29,7 @@
                 <h2>Perímetro y Área</h2>
                 <img src="img/perimetro.jpg" alt="">
                 <br>
-                <input type="submit" value="INGRESAR">
+                <input class="button button1" type="submit" value="INGRESAR">
             </div>
         </form>
         <!-- ======================================================================== -->
@@ -37,7 +38,7 @@
                 <h2>Fecha de Nacimiento</h2>
                 <img src="img/fecha.jpg" alt="">
                 <br>
-                <input type="submit" value="INGRESAR">
+                <input class="button button1" type="submit" value="INGRESAR">
             </div>
         </form>
     </div>
