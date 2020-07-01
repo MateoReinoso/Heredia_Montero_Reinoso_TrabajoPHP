@@ -14,11 +14,14 @@
         <h1>Multiplicación</h1>
     </head>
     <hr>
-    <form action="rm.php" method="POST">
-        <label for="numero"></label>
-        <input type="text" name="numero" placeholder="Ingresa el numero" required>
-        <input type="submit" value="Calcular">
-    </form>
+    <div class="rm">
+        <form action="rm.php" method="POST">
+            <label for="numero"></label>
+            <input type="text" name="numero" placeholder="Ingresa el numero" required>
+            <input type="submit" value="Calcular">
+        </form>
+    </div>
+
 </body>
 
 </html>
