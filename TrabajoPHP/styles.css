@@ -27,7 +27,7 @@ img{
     border-radius: 2rem;
     align-items: center;
 }
-button{
+/* button{
     border: none;
     color: white;
     padding: 5px 55px;
@@ -48,4 +48,4 @@ button{
   .button1:hover {
     background-color: #887541;
     color: white;
-}
+} */
