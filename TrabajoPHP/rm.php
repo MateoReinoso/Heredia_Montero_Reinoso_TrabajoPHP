@@ -9,7 +9,13 @@
 </head>
 
 <body>
-    <?php
+
+    <head>
+        <h1>Multiplicación</h1>
+    </head>
+    <hr>
+    <div class="respuesta">
+        <?php
         if(isset($_REQUEST['numero'])){
             $num = $_REQUEST['numero'];
 
@@ -21,6 +27,8 @@
             print "<h2>Ingrese un numero</h2>";
         }
     ?>
+    </div>
+
 </body>
 
 </html>
