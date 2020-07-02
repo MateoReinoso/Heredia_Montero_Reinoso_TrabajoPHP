@@ -24,7 +24,7 @@
             </div>
         </form>
         <!-- ======================================================================== -->
-        <form action="#" method="post">
+        <form action="figuras.php" method="post">
             <div>
                 <h2>Perímetro y Área</h2>
                 <img src="img/perimetro.jpg" alt="">
