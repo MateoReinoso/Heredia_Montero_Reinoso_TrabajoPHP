@@ -32,6 +32,11 @@ img{
     /* align-items: center; */
 }
 
+.edad{
+    text-align: center;
+    font-weight: bold;
+    /* align-items: center; */
+}
 .respuesta{
     text-align: center;
     

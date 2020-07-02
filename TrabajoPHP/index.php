@@ -33,7 +33,7 @@
             </div>
         </form>
         <!-- ======================================================================== -->
-        <form action="" method="post">
+        <form action="fechanacimiento.php" method="post">
             <div>
                 <h2>Fecha de Nacimiento</h2>
                 <img src="img/fecha.jpg" alt="">
