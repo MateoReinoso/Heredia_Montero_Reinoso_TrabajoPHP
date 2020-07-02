@@ -16,9 +16,9 @@
     <hr>
     <div class="rm">
         <form action="rm.php" method="POST">
-            <label for="numero"></label>
-            <input type="text" name="numero" placeholder="Ingresa el numero" required>
-            <input type="submit" value="Calcular">
+            <label class="nume" for="numero"></label>
+            <input class="nume" type="text" name="numero" placeholder="Ingresa el numero" required>
+            <input class="button button1" type="submit" value="Calcular">
         </form>
     </div>
 
