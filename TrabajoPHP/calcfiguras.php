@@ -83,7 +83,7 @@
     <div class="flex-container">
         <div>
             <form action="figuras.php" method="post">
-            <input class="button button1" type="submit" value="Regresar">
+            <input class="button button1" type="submit" value="Calcular otra figura">
             </form>
         </div>
         <div>
