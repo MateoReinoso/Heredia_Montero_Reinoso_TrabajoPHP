@@ -7,6 +7,9 @@
         <h1>Seleccion de figuras</h1>
     </head>
     <hr>
+    <h2>
+    Crear un programa que permita calcular el perímetro y área de un (triangulo, cuadrado, rectángulo, circulo)
+    </h2>
     <div class="flex-container">
         <form action="triangulo.php" method="post">
             <div>

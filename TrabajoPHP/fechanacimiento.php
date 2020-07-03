@@ -14,6 +14,9 @@
         <h1>Fecha Nacimiento</h1>
     </head>
     <hr>
+    <h2>
+    Crear un programa que ingresada un fecha de nacimiento calcule la edad de la persona a la fecha actual.
+    </h2>
     <div class="edad">
         <form action="edad.php" method="POST">
             <label class="fec" for="fecha"></label>

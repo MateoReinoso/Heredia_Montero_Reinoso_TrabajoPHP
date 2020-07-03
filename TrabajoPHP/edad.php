@@ -27,9 +27,9 @@
             $ano=($ano+1);}
         
         $edad=(date("Y")-$ano);
-        // $meses = (date("m")-$mes-1);
+        $meses = (date("m")-$mes-1);
         // $dias = (date("m") + date("d"));
-        print $edad. " años "; 
+        print $edad. " años " .$meses. " meses"; 
     ?>
             </div>
     </div>

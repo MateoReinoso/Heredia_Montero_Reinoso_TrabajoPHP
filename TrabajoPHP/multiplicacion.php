@@ -14,6 +14,10 @@
         <h1>Multiplicación</h1>
     </head>
     <hr>
+    <h2>
+    Crear un programa en PHP, que pida el numero de una tabla (numero del 1 al 10);
+    y cuyo resultado sea la impresión de la tabla de multiplicar hasta el 20.
+    </h2>
     <div class="rm">
         <form action="rm.php" method="POST">
             <label class="nume" for="numero"></label>
